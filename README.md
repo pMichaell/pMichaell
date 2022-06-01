@@ -3,7 +3,6 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on my Diet Planner App. ( [Preview](https://dietplanner-3843d.web.app/) )
-- 🌱 I’m currently learning NextJS, SSG, SSR, ISR
 - 💼 I'm currently looking for job
 - ⚡ Fun fact: console.log(typeof null) Oriented Programming 🧐
 
