@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on my Diet Planner App. ( [Preview](https://dietplanner-3843d.web.app/) )
-- 💼 I'm currently looking for job
+- 💼 I'm currently working at X-Kom
 - ⚡ Fun fact: console.log(typeof null) Oriented Programming 🧐
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
