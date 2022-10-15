@@ -2,8 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on my Diet Planner App. ( [Preview](https://dietplanner-3843d.web.app/) )
-- 💼 I'm currently working at as React Developer at x-kom
+- 💼 I'm currently working as Frontend Developer at x-kom
 - ⚡ Fun fact: console.log(typeof null) Oriented Programming 🧐
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
